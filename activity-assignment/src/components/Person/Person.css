@@ -1,0 +1,12 @@
+.person h2{
+    margin-bottom: 0px;
+}
+.person p{
+    margin-top: 0;
+}
+.person-info{
+    display: flex;
+    justify-content: space-around;
+    background-color: #E5E5E5;
+    border-radius: 10px;
+}

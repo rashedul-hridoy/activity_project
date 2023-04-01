@@ -1,0 +1,33 @@
+.exercise-container{
+    background-color: white;
+    
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.exercise-container img{
+   width: 286px;
+   height: 286px;
+   padding: 5px;
+   border-radius: 10px;
+}
+.exercise-container h3{
+    margin-left: 10px;
+}
+.exercise-container p{
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+.exercise-container button{
+    background-color: blue;
+    border: none;
+    padding: 15px;
+    width: 70%;
+    justify-content: center;
+    margin-left: 40px;
+    border-radius: 15px;
+    font-size: 16px;
+    color: white;
+    font-weight: 700;
+}

@@ -1,0 +1,14 @@
+.break-time{
+    padding: 11px;
+    background-color: #E5E5E5;
+    border-radius: 5px;
+}
+.break-time button{
+    border-radius: 60px;
+    border: none;
+    padding: 8px;
+    margin-right: 10px;
+}
+.break-time button:hover{
+    background-color: orange;
+}
